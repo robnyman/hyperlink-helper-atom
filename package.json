@@ -1,14 +1,15 @@
 {
   "name": "HyperlinkHelper",
   "main": "./lib/hyperlink-helper",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Wraps selected text as a link with set href attribute",
-  "activationEvents": ["hyperlink-helper:link"],
+  "activationEvents": [
+    "hyperlink-helper:link"
+  ],
   "repository": "https://github.com/robnyman/hyperlink-helper-atom",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
