@@ -1,5 +1,5 @@
 {
-  "name": "Hyperlink Helper",
+  "name": "HyperlinkHelper",
   "main": "./lib/hyperlink-helper",
   "version": "0.0.0",
   "description": "Wraps selected text as a link with set href attribute",
