@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable hyperlink-helper': 'hyperlink-helper:link'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'hyperlink-helper'
+      'submenu': [
+        { 'label': 'Link', 'command': 'hyperlink-helper:link' }
+      ]
+    ]
+  }
+]
