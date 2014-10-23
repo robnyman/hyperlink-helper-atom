@@ -5,3 +5,5 @@ Hyperlink helper for the [Atom editor](http://atom.io/) - wrap selected text wit
 ## Using it
 
 Select some text in the editor, hit `Ctrl` + `Cmd` + `L` (`Ctrl` + `Alt` + `L` on Windows) to wrap the selected text as a link, with its `href` attribute set to the value in the clipboard.
+
+![](https://raw.githubusercontent.com/robnyman/hyperlink-helper-atom/master/HyperlinkHelperAtom.gif)
